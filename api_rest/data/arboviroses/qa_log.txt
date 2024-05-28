@@ -1,0 +1,33 @@
+Question: O que é dengue?
+Answer:  A dengue is a mosquito-borne viral disease that is prevalent in the Americas, especially in Brazil. It is a febrile illness that has shown great importance in public health in recent years. The dengue virus (DENV) is an arbovirus transmitted by the bite of the Aedes aegypti mosquito and possesses four different serotypes (DENV-1, DENV-2, DENV-3, and DENV-4). The period of greatest transmission of the disease occurs in the rainy months of each region, generally from November to May. Stagnant water contributes to the proliferation of mosquitoes and thus greater dissemination of the disease. It is important to avoid stagnant water every day because mosquito eggs can survive for a year in the environment. All age groups are equally susceptible to the disease, but older people and those with chronic diseases such as diabetes and hypertension have a higher risk of developing severe cases and other complications that may lead to death.
+
+Question: O que é dengue e qual o tratamento mais comum?
+Answer:  Dengue is a viral disease that has become increasingly important in public health over the years. It's transmitted by the Aedes aegypti mosquito and there are four different serotypes of the virus (DENV-1, DENV-2, DENV-3, and DENV-4). The most common treatment is to manage symptoms with rest, fluids, and pain relievers like paracetamol. However, hospitalization may be necessary for severe cases.
+
+Question: dengue
+Answer:  Dengue is a mosquito-borne viral infection caused by any one of four related dengue viruses, transmitted by the bite of an infected Aedes mosquito. It can cause flu-like symptoms and sometimes severe complications such as hemorrhagic fever or shock. There are no specific treatments for dengue, but early detection and access to proper medical care lowers fatality rates significantly. Dengue vaccines have been developed and are being used in some countries with high endemicity of the disease.
+
+Question: o que é dengue?
+Answer:  Dengue is a mosquito-borne viral disease that has become increasingly important in public health over the past few years. It is transmitted by the Aedes aegypti mosquito and there are four different serotypes of the virus (DENV-1, DENV-2, DENV-3, and DENV-4). The period with the highest transmission occurs during the rainy months in each region, typically from November to May. Stagnant water contributes to mosquito proliferation and disease dissemination. It is important to avoid stagnant water because mosquito eggs can survive for up to a year in the environment. All age groups are susceptible to dengue, but older individuals and those with chronic diseases like diabetes or hypertension have a higher risk of developing severe cases and complications that may lead to death.
+
+Question: teste
+Answer:  I don't know
+
+Question: teste
+Answer:  I don't know.
+
+Question: teste
+Answer:  I don't know.
+
+Question: teste
+Answer:  I don't know.
+
+Question: teste
+Answer:  I don't know.
+
+Question: teste
+Answer:  I don't know.
+
+Question: teste
+Answer:  The text provided does not contain any information related to the question "teste". Therefore, it is impossible for me to provide an answer based on this context.
+

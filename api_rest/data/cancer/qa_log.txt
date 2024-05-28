@@ -1,0 +1,10 @@
+Question: o que é câncer?
+Answer:  Câncer é um termo sinônimo de morte, originário do latim cancer cancrí caranguejo. É uma palavra com grande estigma e muitas pessoas evitam dizer a palavra ou chamam de "aquela doença" ou "aquilo".
+
+Question: O que é câncer?
+Answer:  Câncer é um processo interno de dúvidas e incertezas relacionadas à possibilidade de aquele achado ser ou não um câncer. A palavra câncer contém em si, ainda, um grande estigma: é sinônimo de morte.
+
+
+Question: teste
+Answer:  The question is not clear enough to provide a helpful answer.
+
